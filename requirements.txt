@@ -7,3 +7,11 @@ langchain-openai
 langchain-groq
 arxiv
 wikipedia
+langgraph-cli[inmem]
+langchain-huggingface
+sentence-transformers
+faiss-cpu
+pymupdf
+langchain-tavily
+langgraph_supervisor 
+langchain-experimental
